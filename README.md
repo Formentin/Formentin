@@ -1,4 +1,7 @@
-### Hi there 👋
+> ### Tiago Formentin
+> - Location: Tubarão/SC
+> - Languages: PHP, JS
+> - Learning: SQL, Python, React.js
 
 <!--
 **Formentin/Formentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
