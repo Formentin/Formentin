@@ -2,6 +2,7 @@
 > - Location: Tubarão/SC
 > - Languages: PHP, JS
 > - Learning: SQL, Python, React.js
+![campfire_github](https://github.com/Formentin/Formentin/assets/61883494/dcb32dfe-9327-463c-a27b-9860048a3314)
 
 <!--
 **Formentin/Formentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
